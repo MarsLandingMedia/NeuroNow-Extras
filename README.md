@@ -28,6 +28,11 @@ This package provides:
 
 ## Included Files
 
+### system instructions
+- This file is located at the root of this repo.
+- Copy and past the contents into the 'System Instructinos' of your Assistant's configuration page. 
+
+
 ### agent-instructions.md
 
 Instruction set for configuring LLM behavior and enforcing specific practices within the ServiceNow context. Includes:
