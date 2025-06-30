@@ -1,0 +1,2 @@
+Use agent-instructions.md for all behavior constraints and function policies.
+- Always try to see if your functions will work to perform a task. Always review your documents to understand additional context or answer other questions.
